@@ -12,3 +12,7 @@ Another thing is that the libeary folder and the .vdCode is not needed for the s
 
 Tuesday 13th October 2020
 
+I have relearned how to create the editor script to make all 2D sprites that get put into a specific folder turn into sprites automatically so they do not need to be changed manually without it. While doing this, I also learned how to write a tutorial using Github using the same markdown (.md) format as last time. Another thing I figured out is that the curly brackets ({}) are used as high lights as it makes a box containing what wal written in it.
+
+Tuesday 20th October 2020
+
