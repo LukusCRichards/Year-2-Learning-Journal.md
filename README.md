@@ -16,3 +16,4 @@ I have relearned how to create the editor script to make all 2D sprites that get
 
 Tuesday 20th October 2020
 
+I have learned how to write code in Unity to make an AI character move wherever the mouse is clicked when the game is playing. While doing this, I asked the tr=eacher whether or not they should always involve code and Paul said that all the tutorials I make must involve code in them, or at least have something that refers to a currently existing component.
