@@ -16,7 +16,8 @@ I have relearned how to create the editor script to make all 2D sprites that get
 
 ## Tuesday 20th October 2020
 
-I have learned how to write code in Unity to make an AI character move wherever the mouse is clicked when the game is playing. While doing this, I asked the tr=eacher whether or not they should always involve code and Paul said that all the tutorials I make must involve code in them, or at least have something that refers to a currently existing component.
+I have learned how to write code in Unity to make an AI character move wherever the mouse is clicked when the game is playing. While doing this, I asked the teacher whether or not they should always involve code and Paul said that all the tutorials I make must involve code in them, or at least have something that refers to a currently existing component.
 
 ## Sunday 1st November 2020
 
+Today, I have learned how to make an animation play through the press of a key and through a trigger. I watched a video to learn how to do this and I did struggle to understand how to write it as I thought I could do it similarly for the Audio Source code, but I realised that I forgot that the name of the Audio Source is crucial for playing it.
