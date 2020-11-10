@@ -21,3 +21,7 @@ I have learned how to write code in Unity to make an AI character move wherever 
 ## Sunday 1st November 2020
 
 Today, I have learned how to make an animation play through the press of a key and through a trigger. I watched a video to learn how to do this and I did struggle to understand how to write it as I thought I could do it similarly for the Audio Source code, but I realised that I forgot that the name of the Audio Source is crucial for playing it.
+
+## Tuesday 3rd November 2020
+
+## Tuesday 10th November 2020
