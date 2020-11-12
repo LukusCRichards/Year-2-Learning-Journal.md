@@ -24,4 +24,8 @@ Today, I have learned how to make an animation play through the press of a key a
 
 ## Tuesday 3rd November 2020
 
+Today, I learned a bit more about the FPS counter I made for last year's Specialism task. 
+
 ## Tuesday 10th November 2020
+
+I have learned how to write code that makes a circle as well as a cone inside it that I can use to make a Field of Vision for the NPCs without using any external components. 
