@@ -30,3 +30,10 @@ Today, I learned a bit more about the FPS counter I made for last year's Special
 
 I have learned how to write code that makes a circle as well as a cone inside it that I can use to make a Field of Vision for the NPCs without using any external components. I
 have also learned thay by typing the numbers 0, 360 in square brackets will make the public number variable underneath it turn into a slider that can be used for circular objects.
+
+## Monday 16th November 2020
+
+
+
+## Tuesday 17th November 2020
+
