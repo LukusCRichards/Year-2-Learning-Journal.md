@@ -33,7 +33,8 @@ have also learned thay by typing the numbers 0, 360 in square brackets will make
 
 ## Monday 16th November 2020
 
-
+I have learned how to write code that creates a object mask that allows a game object that blocks the view of the Field of Vision and a Target mask that draws a line to the game object. All with the corresponding layers.
 
 ## Tuesday 17th November 2020
+
 
