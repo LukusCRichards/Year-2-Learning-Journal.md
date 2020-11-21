@@ -33,7 +33,7 @@ I have learned how to write code that creates an object mask that makes a game o
 
 ## Tuesday 17th November 2020
 
-Today, I have learned how to create a visible view cone that shows where the enemy is looking and what they can and cannot see. I watched the follow up video on how to create the 
+Today, I have learned how to create a visible view cone that shows where the enemy is looking and what they can and cannot see. I watched the follow up video from last week's video on how to create the Field of Vision and I also learned how to change the color of the Field of Vision through a View Mesh Filter.
 
 ## Friday 20th November 2020
 
