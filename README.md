@@ -29,14 +29,19 @@ Today, I learned a bit more about the FPS counter I made for last year's Special
 ## Tuesday 10th November 2020
 
 I have learned how to write code that makes a circle as well as a cone inside it that I can use to make a Field of Vision for the NPCs without using any external components. I
-have also learned thay by typing the numbers 0, 360 in square brackets will make the public number variable underneath it turn into a slider that can be used for circular objects.
+have also learned thay by typing the numbers 0, 360 in square brackets will make the public number variable underneath it turn into a slider that can be used for circular objects. I watched a video called "Field of view visualisation (E01)" and this is where I did struggle to understand how to do some of the things that were mentioned in it, but I got through it.
 
 ## Monday 16th November 2020
 
-I have learned how to write code that creates a object mask that allows a game object that blocks the view of the Field of Vision and a Target mask that draws a line to the game object. All with the corresponding layers.
+I have learned how to write code that creates an object mask that makes a game object block the view of the Field of Vision and a Target mask that draws a line to the game object. All with the corresponding layers. I continued watching the video from last week to finish off the creation of the Field of Vision
 
 ## Tuesday 17th November 2020
 
+I watched the follow up video on how to create the 
 
+## Friday 20th November 2020
 
-##
+Today, I learned how to write a code for the Field of View that makes the objects that block it remain in a smooth angle while the character is moving. 
+
+## Saturday 21st November 2020
+
