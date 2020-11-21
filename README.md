@@ -22,10 +22,6 @@ I have learned how to write code in Unity to make an AI character move wherever 
 
 Today, I have learned how to make an animation play through the press of a key and through a trigger. I watched a video to learn how to do this and I did struggle to understand how to write it as I thought I could do it similarly for the Audio Source code, but I realised that I forgot that the name of the Audio Source is crucial for playing it.
 
-## Tuesday 3rd November 2020
-
-Today, I learned a bit more about the FPS counter I made for last year's Specialism task. 
-
 ## Tuesday 10th November 2020
 
 I have learned how to write code that makes a circle as well as a cone inside it that I can use to make a Field of Vision for the NPCs without using any external components. I
@@ -33,11 +29,11 @@ have also learned thay by typing the numbers 0, 360 in square brackets will make
 
 ## Monday 16th November 2020
 
-I have learned how to write code that creates an object mask that makes a game object block the view of the Field of Vision and a Target mask that draws a line to the game object. All with the corresponding layers. I continued watching the video from last week to finish off the creation of the Field of Vision
+I have learned how to write code that creates an object mask that makes a game object block the view of the Field of Vision and a Target mask that draws a line to the game object. All with the corresponding layers. I continued watching the video from last week to finish off the creation of the Field of Vision and I learned how to draw a line to the target object.
 
 ## Tuesday 17th November 2020
 
-I watched the follow up video on how to create the 
+Today, I have learned how to create a visible view cone that shows where the enemy is looking and what they can and cannot see. I watched the follow up video on how to create the 
 
 ## Friday 20th November 2020
 
