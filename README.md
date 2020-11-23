@@ -25,7 +25,7 @@ Today, I have learned how to make an animation play through the press of a key a
 ## Tuesday 10th November 2020
 
 I have learned how to write code that makes a circle as well as a cone inside it that I can use to make a Field of Vision for the NPCs without using any external components. I
-have also learned thay by typing the numbers 0, 360 in square brackets will make the public number variable underneath it turn into a slider that can be used for circular objects. I watched a video called "Field of view visualisation (E01)" and this is where I did struggle to understand how to do some of the things that were mentioned in it, but I got through it.
+have also learned thay by typing "Range (0, 360)" in square brackets, it will make the public number variable underneath it turn into a slider that can be used for circular objects. I watched a video called "Field of view visualisation (E01)" and this is where I did struggle to understand how to do some of the things that were mentioned in it, but I got through it.
 
 ## Monday 16th November 2020
 
@@ -35,7 +35,7 @@ I have learned how to write code that creates an object mask that makes a game o
 
 Today, I have learned how to create a visible view cone that shows where the enemy is looking and what they can and cannot see. I watched the follow up video from last week's video on how to create the Field of Vision and I also learned how to change the color of the Field of Vision through a View Mesh Filter. While watching the video, I found about about structs and what they can be used for. The video showed that they can use public variables for the struct itself, but for the parentheses using the same public name of the struct, they need to be written differently.
 
-### Example
+### Example of Struct
 public struct ViewCastInfo
     {
         public bool hit;
@@ -54,7 +54,7 @@ public struct ViewCastInfo
 
 ## Friday 20th November 2020
 
-Today, I learned how to write a code for the Field of View that makes the objects that block it remain in a smooth angle while the character is moving. 
+Today, I learned how to write a code for the Field of View that makes the objects that block it remain in a smooth angle while the character is moving. I used the same follow up video I wathed a few days ago that mentioned how to make the Field of Vision
 
 ## Saturday 21st November 2020
 
