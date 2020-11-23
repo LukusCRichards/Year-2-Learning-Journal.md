@@ -33,11 +33,15 @@ I have learned how to write code that creates an object mask that makes a game o
 
 ## Tuesday 17th November 2020
 
-Today, I have learned how to create a visible view cone that shows where the enemy is looking and what they can and cannot see. I watched the follow up video from last week's video on how to create the Field of Vision and I also learned how to change the color of the Field of Vision through a View Mesh Filter.
+Today, I have learned how to create a visible view cone that shows where the enemy is looking and what they can and cannot see. I watched the follow up video from last week's video on how to create the Field of Vision and I also learned how to change the color of the Field of Vision through a View Mesh Filter. (Struct)
 
 ## Friday 20th November 2020
 
 Today, I learned how to write a code for the Field of View that makes the objects that block it remain in a smooth angle while the character is moving. 
 
 ## Saturday 21st November 2020
+
+Today, I have learned how to write code to make the AI patrol the map using the transform data from empty game objects. I watched a different video that explained this and it also contained other code that can be used to make the AI chase the player after they get too close from any angle, but it did not explain how to make it only detect the player from a certain angle like the Field of Vision.
+
+## Monday 23nd November 2020
 
