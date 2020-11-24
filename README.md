@@ -33,21 +33,26 @@ I have learned how to write code that creates an object mask that makes a game o
 
 ## Tuesday 17th November 2020
 
-Today, I have learned how to create a visible view cone that shows where the enemy is looking and what they can and cannot see. I watched the follow up video from last week's video on how to create the Field of Vision and I also learned how to change the color of the Field of Vision through a View Mesh Filter. While watching the video, I found about about structs and what they can be used for. The video showed that they can use public variables for the struct itself, but for the parentheses using the same public name of the struct, they need to be written differently.
+Today, I have learned how to create a visible view cone that shows where the enemy is looking and what they can and cannot see. I watched the follow up video from last week's video on how to create the Field of Vision and I also learned how to change the color of the Field of Vision through a View Mesh Filter. While watching the video, I found out about structs and what they can be used for. The video showed that they can use public variables for the struct itself, but for the parentheses using the same public name of the struct, they need to be written differently.
 
-### Example of Struct
+
+
+### Example of Struct Usage
+
+bool edgeDistThresholdExeeded = Mathf.Abs(minViewCast.**dist** - newViewCast.**dist**) > edgeDistThreshold;
+
 public struct ViewCastInfo
-    {
+{
         public bool hit;
         public Vector3 point;
-        public float dist;
+        public float **dist**;
         public float angle;
 
         public ViewCastInfo(bool _hit, Vector3 _point, float _dist, float _angle)
         {
             hit = _hit;
             point = _point;
-            dist = _dist;
+            **dist** = _dist;
             angle = _angle;
         }
     }
