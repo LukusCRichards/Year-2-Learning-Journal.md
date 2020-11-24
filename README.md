@@ -65,5 +65,9 @@ Today, I learned how to write a code for the Field of View that makes the object
 
 Today, I have learned how to write code to make the AI patrol the map using the transform data from empty game objects. I watched a different video that explained this and it also contained other code that can be used to make the AI chase the player after they get too close from any angle, but it did not explain how to make it only detect the player from a certain angle like the Field of Vision.
 
-## Monday 23nd November 2020
+## Monday 23rd November 2020
+
+
+
+## Tueaday 24th November 2020
 
