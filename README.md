@@ -67,7 +67,7 @@ Today, I have learned how to write code to make the AI patrol the map using the 
 
 ## Monday 23rd November 2020
 
-
+I have watched a video called "Better AI in Unity" that explains how to write code that makes the AI follow the player when it get to a certain angle and only goes to the last known location of the player if something obstructs its view. It also shows the code that instantiates a ghost version (low alpha game object) on the player's last known location. I did watch another video called "AI that tracks the player's last know position | Unity Tutorial | AI Series", but it did not give a good explanation on how to write the code or look like it worked how I felt it should.
 
 ## Tueaday 24th November 2020
 
