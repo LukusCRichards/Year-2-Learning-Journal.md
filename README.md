@@ -75,4 +75,3 @@ I have taken a look at Paul's Patrol script he made to make the AI move around t
 
 ## Saturday 28th November 2020
 
-Today, I continued looking at Paul's Patrol script and I have found something I am not familiar with: Paul's script is using a behaviour script that is allowing the behaviour variable to be used in the AI script that makes changes to the AI's behaviour in the game.
