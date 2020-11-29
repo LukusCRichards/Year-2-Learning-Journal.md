@@ -67,12 +67,12 @@ Today, I have learned how to write code to make the AI patrol the map using the 
 
 ## Monday 23rd November 2020
 
-I have watched a video called "Better AI in Unity" that explains how to write code that makes the AI follow the player when it get to a certain angle and only goes to the last known location of the player if something obstructs its view. It also shows the code that instantiates a ghost version (low alpha game object) on the player's last known location. I did watch another video called "AI that tracks the player's last know position | Unity Tutorial | AI Series", but it did not give a good explanation on how to write the code or look like it worked how I felt it should.
+I have watched a video called "Better AI in Unity" that explains how to write code that makes the AI follow the player when it get to a certain angle and only goes to the last known location of the player if something obstructs its view. It also shows the code that instantiates a ghost version (low alpha game object) on the player's last known location. I did watch another video called "AI that tracks the player's last know position | Unity Tutorial | AI Series", but it did not give a good explanation on how to write the code or look like it worked how I felt it should. So I discarded that video.
 
 ## Friday 27th November 2020
 
-I have taken a look at Paul's Patrol script he made to make the AI move around the map and chase the player when the player enters its field of view and I have managed to learn some more effective ways on how to write the code, .
+I have taken a look at Paul's Patrol script he made to make the AI move around the map and chase the player when the player enters its field of view and I have managed to learn some more effective ways on how to write the code and how to access other parts of the script in other scripts, but there are still some things I do not know about it.
 
 ## Saturday 28th November 2020
 
-
+Today, I continued looking at Paul's Patrol script and I have found something I am not familiar with: Paul's script is using a behaviour script that is allowing the behaviour variable to be used in the AI script that makes changes to the AI's behaviour in the game.
