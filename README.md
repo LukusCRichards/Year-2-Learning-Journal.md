@@ -73,5 +73,9 @@ I have watched a video called "Better AI in Unity" that explains how to write co
 
 I have taken a look at Paul's Patrol script he made to make the AI move around the map and chase the player when the player enters its field of view and I have managed to learn some more effective ways on how to write the code and how to access other parts of the script in other scripts, but there are still some things I do not know about it.
 
-## Saturday 28th November 2020
+## Sunday 29th November 2020
+
+
+
+## Tuesday 1st December 2020
 
