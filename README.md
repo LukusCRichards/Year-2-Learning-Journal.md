@@ -79,3 +79,4 @@ I have taken a look at Paul's Patrol script he made to make the AI move around t
 
 ## Tuesday 1st December 2020
 
+I have rewatched the video "Better AI in Unity" and I have learned how to write the code that makes an object block the AI's Field of View which will allow the player to hide behind low obstacles and walls. 
