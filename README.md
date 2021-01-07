@@ -81,4 +81,4 @@ I have taken a look at Paul's Patrol script he made to make the AI move around t
 
 I have rewatched the video "Better AI in Unity" and I have learned how to write the code that makes an object block the AI's Field of View which will allow the player to hide behind low obstacles and walls. I have also learned about the functions OnEnable and OnDisable as they can make a difference between something being disabled with it's contents remaining on screen and being
 
-I have also learned about making a ghost for the player's last known location.
+I have also learned about making a ghost for the player's last known location and spawning it after the player leaves the enemies Field of Vision.
