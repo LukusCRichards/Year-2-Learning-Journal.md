@@ -1,4 +1,4 @@
-# Year-2-Learning-Journal.md
+# Year 2 Learning Journal
 
 ## Tuesday 29th September 2020
 
@@ -73,12 +73,8 @@ I have watched a video called "Better AI in Unity" that explains how to write co
 
 I have taken a look at Paul's Patrol script he made to make the AI move around the map and chase the player when the player enters its field of view and I have managed to learn some more effective ways on how to write the code and how to access other parts of the script in other scripts, but there are still some things I do not know about it.
 
-## Sunday 29th November 2020
-
-
-
 ## Tuesday 1st December 2020
 
-I have rewatched the video "Better AI in Unity" and I have learned how to write the code that makes an object block the AI's Field of View which will allow the player to hide behind low obstacles and walls. I have also learned about the functions OnEnable and OnDisable as they can make a difference between something being disabled with it's contents remaining on screen and being
+I have rewatched the video "Better AI in Unity" and I have learned how to write the code that makes an object block the AI's Field of View which will allow the player to hide behind low obstacles and walls. I have also learned about the functions OnEnable and OnDisable as they can make a difference between something being disabled with it's contents remaining on screen and actually being removed from the scene after being disabled.
 
 I have also learned about making a ghost for the player's last known location and spawning it after the player leaves the enemies Field of Vision.
